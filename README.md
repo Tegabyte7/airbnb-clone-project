@@ -1,3 +1,4 @@
+# Front-end
 ## Project Overview
     This project is a full-stack clone of the popular accommodation booking platfrom AirBnB. The goal is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings. The project will cover frontend development, backend APIs, database design, and deployment
 
@@ -78,3 +79,31 @@ A well-designed booking system reduces friction in the user journey, increases c
 - Copyright information
 
 Each components will be designed for reusability and consistency accross the application.
+
+# Backend
+## Project Overview
+The backend for the Airbnb Clone project is designed to provide a robust and scalable foundation for managing user interactions, property listings, bookings, and payments. This backend will support various functionalities required to mimic the core features of Airbnb, ensuring a smooth experience for users and hosts. 
+
+## Project Goals
+1. **User management:**
+Implement a secure system for user registration, authentication, and profile management.
+2. **Property Management:** 
+Develop features for property listing creation, updates and retrieval. 
+3. **Booking System:**
+Create a booking mechanism for users to reserve properties and manage booking details. 
+4. **Payment Processing:**
+Integrate a payment system to handle transactions and record payment details. 
+5. **Review System:** 
+Allow users to leave review and ratings for properties. 
+6. **Data Optimization**
+Ensure efficient data retrieval and storage through database optimizations. 
+
+## Technology Stack
+- **Django:** A high level Python web framework used for building the RESTful API.
+- **Django REST Framework:** Provides tools for creating and managing RESTful APIs.
+- **PostgreSQL:** A powerful relational database used for data storage
+- **GraphQl:**  Allows for efficient querying of data
+- **Celery:** For handling asynchronous tasks such as sending notifications or processig payments. 
+- **Redis:** Used for caching and session management 
+- **Docker:** Containerization tool for consistent developemnt and deployment environments. 
+- **CI/CD Pipelines:** Automated pipelines for testing and deploying code changes.
