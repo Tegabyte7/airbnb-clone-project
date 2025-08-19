@@ -113,3 +113,35 @@ Ensure efficient data retrieval and storage through database optimizations.
 2. **Database Administrator** Manages database design, indexing, and optimizations.
 3. **DevOps Engineer** Handles deployment, monitoring, and scaling of the backend services
 4. **QA Engineer** Ensures the backend functionalities are thoroughly tested and meet quality standards. 
+
+## Database Design
+### Key entities
+* Users: 
+    - A user can have multiple properties,
+    - A user can book multiple properties
+* Properties:
+    - one properties can be owned by multiple users.
+    -
+* Booking:
+    - A booking belong to a property
+* Reviews:
+    - A user can make one review
+    - A review can only belong to one property
+    - 
+* Payments:
+    - Payment can have only one user
+
+### Users
+* GET /users/ - List all users
+* POST /users/ - Create a new user
+* GET /users/{user_id} - Retrieve a specific user
+* PUT /users/{user_id} - Update a specific user
+* DELETE /users/{user_id} - Delete a specific user
+### Properties
+* GET /properties/ - List all properties
+* POST /properties/ - Create a new property.
+### Bookings
+### Reviews
+### Payments
+
+
