@@ -8,11 +8,28 @@
 - Design Tools: Figma for UI/UX design
 
 ## UI/UX Design Planning.
-Design Goals
+### Design Goals
 - Create intuitive booking flow
 - Maintain visual consistency
 - Ensure fast loading times
--Prioritize mobile resoponsiveness.
+- Prioritize mobile resoponsiveness.
+
+### Figma Design Specifications
+#### Color Styles:
+- Primary: #FF5A5F
+- Secondary: #008489
+- Background: #FFFFFF
+- Text: #222222
+- Secondary Text: #717171
+
+#### Typography:
+- Primary Font: Circular, Medium(500), 16px
+- Headings: Circular, Bold(700),24px-32px
+- Secondary Text: Circular, Book (400), 14px
+
+#### Importance of Identifying design properties
+- To ensure accurate implementation when developing, including precise measurement, color codes, typography, assets etc.
+- To ensure consistency and a unified system such as design language, creating reusable componet, for team collaboration and efficiency. 
 
 ## Key Features
 - Property search and filtering
@@ -22,9 +39,12 @@ Design Goals
 
 ## Primary pages
 |Page | Description |
+|:-- | --: |
 |Property listing view | Grid display of available properties with filters|
 |Listing detailed vies| Complete property details with images and booking form|
 |simple checkout| Streamlined payment and booking confirmation|
 
 ## Importance of a user-friendly design in a booking system.
-A well-designed booking system reduces friction in the user journey, increases conversion rates, and imporves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success. 
+A well-designed booking system reduces friction in the user journey, increases conversion rates, and imporves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
+
+##
