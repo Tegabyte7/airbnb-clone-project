@@ -59,7 +59,7 @@ A well-designed booking system reduces friction in the user journey, increases c
 |Product Owner| Defines requirements, prioritizes features, represent stackholers|
 |Scrum Master | Facilitates agile processes, removes blockers, organizes meetings|
 
-## UI Components Patterns
+## UI Component Patterns
 #### Planned Components
 1. Navbar
 - logo
