@@ -131,6 +131,7 @@ Ensure efficient data retrieval and storage through database optimizations.
 * Payments:
     - Payment can have only one user
 
+API Endpoints
 ### Users
 * GET /users/ - List all users
 * POST /users/ - Create a new user
@@ -144,4 +145,19 @@ Ensure efficient data retrieval and storage through database optimizations.
 ### Reviews
 ### Payments
 
+## Feature Breakdown
+1. User management: Implement a secure system for user registration, authentication and profile management
+2. Property management: Develop features for property listing creation, updates and retrieval
+3. Booking system: Create a booking mechanism for users to reserve properties and manage booking details.
+4. Review System: Allow users to leave reviews and ratings for properties
+5. Payment management: Integrate a payment system to handle transactios and record payment details.
+6. Data Optimization: Ensure efficient data retrieval and storage through database optimizations.
 
+## API Security
+- Authentication
+- Authorization
+- Rate limiting
+
+## CI/CD Pipeline
+
+- Tools used: GitHub Action
