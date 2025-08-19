@@ -58,3 +58,23 @@ A well-designed booking system reduces friction in the user journey, increases c
 |DevOps | Manages deployment, CI/CD pipelne, server infrastructure.|
 |Product Owner| Defines requirements, prioritizes features, represent stackholers|
 |Scrum Master | Facilitates agile processes, removes blockers, organizes meetings|
+
+## UI Components Patterns
+#### Planned Components
+1. Navbar
+- logo
+- Search bar
+- User navigation
+-Responsive menu
+2. Property Card
+- Proerty image
+- Basic details (price, location, rating)
+- Favorite button
+-Responsive layout
+3. Footer
+- Site links
+- Company information
+- Social media links
+- Copyright information
+
+Each components will be designed for reusability and consistency accross the application.
