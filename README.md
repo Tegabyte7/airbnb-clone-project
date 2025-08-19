@@ -47,4 +47,14 @@
 ## Importance of a user-friendly design in a booking system.
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and imporves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
 
-##
+## Project Roles and Responsibilities
+|Roles | Responsibilities |
+|:-- | --: |
+|Project Manager | Oversees timeline, coordinates team, manages deliverables |
+|Frontend Developers | Implements UI components, ensures responsive design |
+|Backend Developers | Build APIs, manages databases, implements business logic |
+|Designers | Create mockups, maintain design system, ensures UX quality |
+|QA/Testers | Writes test cases, perform testing, reports bugs|
+|DevOps | Manages deployment, CI/CD pipelne, server infrastructure.|
+|Product Owner| Defines requirements, prioritizes features, represent stackholers|
+|Scrum Master | Facilitates agile processes, removes blockers, organizes meetings|
